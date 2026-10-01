@@ -1,6 +1,6 @@
 # Ethan Hall
 
-**Data Analyst · Utah · Open to relocation**
+**Data analytics · Utah · Open to relocation**
 
 I turn business questions into clear analysis, accurate reports, and practical recommendations.
 
