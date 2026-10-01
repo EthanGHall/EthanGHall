@@ -1,21 +1,23 @@
 # Ethan Hall
 
-I'm preparing for entry-level data analyst roles and building a foundation in SQL and Excel. My goal is to turn data into clear, useful answers.
+**Data analyst candidate · Utah · Open to relocation**
 
-## Current focus
+My focus is turning business questions into clear analysis, accurate reports, and practical recommendations.
 
-- Writing SQL queries from business questions and checking the results
-- Preparing and summarizing data in Excel
-- Explaining findings clearly
+## Analysis focus
 
-## Next milestone
+- SQL query development and data validation
+- Excel analysis and reporting
+- Clear communication of findings
 
-Complete an analytics case study with a clear business question, documented data preparation, checked calculations, and a Power BI report.
+## Portfolio
 
-My longer-term interests are data science and AI. As my foundation develops, I'll expand into Python, pandas, and applied statistics.
+**Featured case study — coming soon**
+
+The completed project will be added here with its repository, report, and key findings.
 
 ## Contact
 
-Based in Utah, United States. Open to relocation.
+For entry-level data analyst opportunities:
 
 [ethanhall.dev@gmail.com](mailto:ethanhall.dev@gmail.com)
