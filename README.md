@@ -1,16 +1,21 @@
-## Hi there 👋
+# Ethan Hall
 
-<!--
-**EthanGHall/EthanGHall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm preparing for entry-level data analyst roles and building a foundation in SQL and Excel. My goal is to turn data into clear, useful answers.
 
-Here are some ideas to get you started:
+## Current focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Writing SQL queries from business questions and checking the results
+- Preparing and summarizing data in Excel
+- Explaining findings clearly
+
+## Next milestone
+
+Complete an analytics case study with a clear business question, documented data preparation, checked calculations, and a Power BI report.
+
+My longer-term interests are data science and AI. As my foundation develops, I'll expand into Python, pandas, and applied statistics.
+
+## Contact
+
+Based in Utah, United States. Open to relocation.
+
+[ethanhall.dev@gmail.com](mailto:ethanhall.dev@gmail.com)
