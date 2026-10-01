@@ -1,14 +1,14 @@
 # Ethan Hall
 
-**Data analyst candidate · Utah · Open to relocation**
+**Data Analyst · Utah · Open to relocation**
 
-My focus is turning business questions into clear analysis, accurate reports, and practical recommendations.
+I turn business questions into clear analysis, accurate reports, and practical recommendations.
 
-## Analysis focus
+## What I do
 
-- SQL query development and data validation
-- Excel analysis and reporting
-- Clear communication of findings
+- Write SQL queries to explore data and validate results
+- Analyze data and build reports in Excel
+- Communicate findings and recommendations clearly
 
 ## Portfolio
 
@@ -18,6 +18,6 @@ The completed project will be added here with its repository, report, and key fi
 
 ## Contact
 
-For entry-level data analyst opportunities:
+For professional opportunities and collaboration:
 
 [ethanhall.dev@gmail.com](mailto:ethanhall.dev@gmail.com)
