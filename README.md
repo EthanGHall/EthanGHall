@@ -6,9 +6,14 @@ I turn business questions into clear analysis, accurate reports, and practical r
 
 ## What I do
 
-- Write SQL queries to explore data and validate results
-- Analyze data and build reports in Excel
-- Communicate findings and recommendations clearly
+- Translate business questions into clear analysis goals.
+- Clean, transform, and validate data using SQL, Excel, and Python/pandas.
+- Explore trends and relationships through statistical analysis.
+- Build dashboards and reports in Power BI and Excel.
+- Communicate findings and practical business recommendations.
+- Document methods, assumptions, and limitations for reproducible analysis.
+
+I'm expanding into data science, with a focus on predictive modeling and machine learning.
 
 ## Portfolio
 
